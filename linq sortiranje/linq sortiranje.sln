@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "linq sortiranje", "linq sortiranje\linq sortiranje.csproj", "{78F9CE53-7640-45D8-8E56-02F1BD14F07E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{78F9CE53-7640-45D8-8E56-02F1BD14F07E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{78F9CE53-7640-45D8-8E56-02F1BD14F07E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{78F9CE53-7640-45D8-8E56-02F1BD14F07E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{78F9CE53-7640-45D8-8E56-02F1BD14F07E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AC6FB4B4-8EB5-451C-815B-3488786B1773}
+	EndGlobalSection
+EndGlobal
